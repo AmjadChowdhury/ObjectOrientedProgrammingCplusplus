@@ -10,6 +10,7 @@ int main()
         cout<<name[i]<<endl;
     }
 
+    cout<<"Another Access Way..\n";
     for(int i=0;i<name.size();i++)
     {
         cout<<name.at(i)<<endl;

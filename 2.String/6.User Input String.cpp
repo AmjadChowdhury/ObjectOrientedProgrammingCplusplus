@@ -7,8 +7,8 @@ int main()
 //    cin>>name; // Amjadul Alam
 //    cout<<name; // Amjadul
 
-    getline(cin,name);
-    cout<<name<<endl;
+    getline(cin,name); // Amjadul Alam
+    cout<<name<<endl;  // Amjadul Alam
 
 
 
