@@ -12,7 +12,7 @@ int main()
     cout<<*ptr<<endl;  //Pizza
 
     *ptr = "Burger";
-    cout<<food<<endl;
+    cout<<food<<endl; // Burger
 
     return 0;
 }

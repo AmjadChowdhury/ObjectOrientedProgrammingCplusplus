@@ -3,12 +3,12 @@ using namespace std;
 
 int main()
 {
-    string food = "Mango";
+    string food = "Pizza";
     string &meal = food;
 
-    cout<<food<<endl;
-    cout<<&meal<<endl;
-    cout<<meal<<endl;
+    cout<<food<<endl;  //Pizza
+    cout<<&meal<<endl; //0x61fde0
+    cout<<meal<<endl;  //Pizza
 
     return 0;
 }
