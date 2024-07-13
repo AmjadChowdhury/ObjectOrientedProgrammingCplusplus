@@ -28,9 +28,9 @@ public:
 int main()
 {
     Child obj;
-    obj.daddy();
-    obj.mommy();
-    obj.ami();
+    obj.daddy(); // This is from father class.
+    obj.mommy(); // This is from mother class.
+    obj.ami(); //Hello!This is me.!
 
     return 0;
 }

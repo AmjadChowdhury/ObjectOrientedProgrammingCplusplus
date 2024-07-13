@@ -7,7 +7,7 @@ public:
     //Internal Method..
     void myMethod();
 };
-
+// External method....
 void MyClass :: myMethod()
 {
     cout<<"Welcome to hotel CALiFORNIA.\n";

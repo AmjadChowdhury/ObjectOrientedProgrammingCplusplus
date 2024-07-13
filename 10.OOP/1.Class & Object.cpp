@@ -14,7 +14,7 @@ int main()
     obj1.myString = "Cristiano Ronaldo";
 
     cout<<"Player : "<<obj1.myString<<" Jersy num : "<<obj1.myNum<<endl;
-    //
+    // Player : Cristiano Ronaldo Jersy num : 7
 
     return 0;
 }

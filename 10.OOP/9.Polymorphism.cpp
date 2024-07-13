@@ -41,12 +41,15 @@ int main()
 
     Rahat obj2;
     obj2.func();
+    // I am Rahat Khan.
 
     Juthy obj3;
     obj3.func();
+    // I am Nasrin Sultana Juthy.
 
     Sabuj obj4;
     obj4.func();
+    // I am Sabuj Ahammed.
 
     return 0;
 }

@@ -16,3 +16,5 @@ int main()
 
     return 0;
 }
+
+// Factorial of 5 is : 15

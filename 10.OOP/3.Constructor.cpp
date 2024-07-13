@@ -41,8 +41,8 @@ int main()
 
     Player obj2;
     // Welcome to the Manchester United.
-//    obj2.name = "CR";
-//    obj2.num = 7;
+    obj2.name = "CR";
+    obj2.num = 7;
     obj2.myFunc();
     // Player : CR,Jersy : 7
 

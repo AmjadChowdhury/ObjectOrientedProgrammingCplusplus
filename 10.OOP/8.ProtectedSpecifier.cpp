@@ -24,6 +24,7 @@ int main()
     Programmer obj;
     obj.setSalary(100000000);
     cout<<"Monthly Programmer Salary : "<<obj.getSalary()<<endl;
+    // Monthly Programmer Salary : 100000000
 
     return 0;
 }

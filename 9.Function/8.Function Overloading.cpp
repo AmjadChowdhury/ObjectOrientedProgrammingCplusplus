@@ -22,3 +22,6 @@ int main()
 
     return 0;
 }
+
+//Sum is : 50
+//Sum is : 50.1

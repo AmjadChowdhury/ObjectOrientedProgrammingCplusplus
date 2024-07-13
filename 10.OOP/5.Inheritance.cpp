@@ -20,8 +20,10 @@ int main()
 {
     Car obj1;
     obj1.honk();
+    // Tuut Tuut.
 
     cout<<"Brand : "<<obj1.brand<<",Model : "<<obj1.model<<endl;
+    // Brand : Ford,Model : Mustang
 
     return 0;
 }

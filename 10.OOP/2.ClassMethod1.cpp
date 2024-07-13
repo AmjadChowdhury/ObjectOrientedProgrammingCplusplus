@@ -4,6 +4,7 @@ class MyClass{
 public:
     int myNum;
     string myString;
+    //Internal Method..
     void myMethod()
     {
         cout<<"Welcome to the hotel CALIFORNIA.\n";
@@ -15,7 +16,7 @@ int main()
     MyClass obj1;
 
     obj1.myMethod();
-
+    // Welcome to the hotel CALIFORNIA.
     obj1.myNum = 7;
     obj1.myString = "Cristiano Ronaldo";
 

@@ -23,6 +23,7 @@ int main()
     obj1.setSalary(5000);
     int res = obj1.getSalary();
     cout<<"Salary : "<<res<<endl;
+    // Salary : 5000
 
     return 0;
 }
